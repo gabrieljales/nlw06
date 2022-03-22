@@ -18,11 +18,11 @@
 
 - Cadastro de elogios
 
-  [] Não é permitido um usuário cadastrar um elogio para si
+  [x] Não é permitido um usuário cadastrar um elogio para si
 
-  [] Não é permitido cadastrar elogios para usuários inválidos
+  [x] Não é permitido cadastrar elogios para usuários inválidos
 
-  [] Não é permitido cadastro por usuários que não sejam administradores
+  [x] Não é permitido cadastro por usuários que não sejam administradores
 
 ## Extras: pontos para melhorar
 
