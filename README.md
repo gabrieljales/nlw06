@@ -26,6 +26,8 @@
 
 ## Extras: pontos para melhorar
 
+[x] Utilizar docker e docker-compose (por enquanto, só o banco)
+
 [] Tratamento de erros (Criar uma classe de erros customizável)
 
 [] Utilizar alguma lib para validar campos (se o email passado é válido, strings com tamanho fixo e etc)
